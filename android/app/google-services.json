@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "137322851401",
+    "project_id": "rockifyxx01",
+    "storage_bucket": "rockifyxx01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137322851401:android:0d61ca453f655157aa6398",
+        "android_client_info": {
+          "package_name": "com.ayush.rockify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUn8IM7seBnidjMg0Fpg5YkdJqO3V-_-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137322851401:android:fc30ebfdf51e04f0aa6398",
+        "android_client_info": {
+          "package_name": "com.example.rockify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUn8IM7seBnidjMg0Fpg5YkdJqO3V-_-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137322851401:android:9d1f82e272b17fc3aa6398",
+        "android_client_info": {
+          "package_name": "com.rockify.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUn8IM7seBnidjMg0Fpg5YkdJqO3V-_-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
